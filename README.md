@@ -4,16 +4,16 @@ Its a simple website application which allows customers/visitors to plan there h
 
 Home Page 
 
-![2022-07-27 (1)](https://github.com/Yashwanth1811/Tours-and-Travel-Website/blob/45421a1e9e666fd41e2e5f904247b2d9c21ac0c4/images/Home.png)
+![2022-07-27](https://github.com/Yashwanth1811/Tours-and-Travels-Website/blob/0d9523a63c29e31ee29c140b960b3706cdcd104f/images/Home.png)
 
 About Page
 
-![2022-07-27 (2)](https://github.com/Yashwanth1811/Tours-and-Travel-Website/blob/45421a1e9e666fd41e2e5f904247b2d9c21ac0c4/images/About.png)
+![2022-07-27](https://github.com/Yashwanth1811/Tours-and-Travels-Website/blob/0d9523a63c29e31ee29c140b960b3706cdcd104f/images/About.png)
 
 Contact Page
 
-![2022-07-27 (3)](https://github.com/Yashwanth1811/Tours-and-Travel-Website/blob/45421a1e9e666fd41e2e5f904247b2d9c21ac0c4/images/contact.png)
+![2022-07-27](https://github.com/Yashwanth1811/Tours-and-Travels-Website/blob/0d9523a63c29e31ee29c140b960b3706cdcd104f/images/contact.png)
 
 Reviews Page
 
-![2022-07-27 (4)](https://github.com/Yashwanth1811/Tours-and-Travel-Website/blob/45421a1e9e666fd41e2e5f904247b2d9c21ac0c4/images/Reviews.png)
+![2022-07-27](https://github.com/Yashwanth1811/Tours-and-Travels-Website/blob/0d9523a63c29e31ee29c140b960b3706cdcd104f/images/Reviews.png)
