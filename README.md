@@ -2,7 +2,7 @@
 
 Its a simple website application which allows customers/visitors to plan there holiday trips, school tours, summer vactions etc.
 
-Website link : https://yatra-tours-and-travels.herokuapp.com/
+Website link : https://yashwanth1811.github.io/Tours-and-Travels-Website/
 
 Home Page 
 
